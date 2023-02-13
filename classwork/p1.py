@@ -54,5 +54,5 @@ t = p*(r*r)
 print("circle area :",t)
 """
 
-a = int(input("Enter any no : "))
+
 
